@@ -1,5 +1,5 @@
 # BatchHack
-I tried to using batch files to block HID on windows but it is not working .If anyone knows please let me know why
+I tried to using batch files to block HID on windows but it is not working .If anyone knows please let me know why.I tired it because __Windows Security__ didn't Detect it.
 # To Disable:
 @echo off
 REM Disable all USB ports
